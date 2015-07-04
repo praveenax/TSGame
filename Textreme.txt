@@ -1,0 +1,19 @@
+- Simple text game - city building, strategy, fantasy, governance
+
+FEATURES:
+
+- generated map
+- ai people with mixed attributes
+- law & punishment cycle to guide people
+- quest system to guide a player
+- light & dark story lines based on player choice.
+- fragile world economy to test governance
+
+
+v1.0:
+- Simple html ui
+
+PLANS:
+
+- to connect to server & db and store player saves, world map
+- to bring in multiplayer civilization building
